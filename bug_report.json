@@ -1,1 +1,17 @@
-
+{
+  "Project": "Test",
+  "Issue_type": "Bug",
+  "Summary": "Add a short, bug name that answers questions: What? Where? When?",
+  "Description": {
+      "Steps": [
+          "1": "Go to site ...",
+          "2": "Click on the button ...",
+          "3": "In the 'E-mail' field, enter 'testgmail.com'"
+        ],
+      "Result": "No errors, email entered correctly",
+      "Expected_Result": "I get an error that the @ sign is missing",
+      "Environment": "Windows 11 x64, Google Chrome v.5.5.5.5",
+      "Attachments": "Add screenshot or(and) video"
+  },
+  "Reporter": "Vladimir Litvyakov"
+}
