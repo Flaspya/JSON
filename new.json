@@ -1,0 +1,12 @@
+{
+   "firstName": "Vladimir",
+   "lastName": "Litvyakov",
+   "patronymic": "Pavlovich",
+   "age": 27
+   "my_pets": {
+       "Cat_1": "Kelly",
+       "Cat_2": "Filimon",
+       "Dog": "Mark"
+   },
+   "desired_salary": "50000 rub"
+}
